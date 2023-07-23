@@ -1,4 +1,6 @@
-# ajaeontherun.github.io
+# Deprecated
+
+ajaeontherun.github.io
 My website v0.1.0
 
 This is my first attempt of building my own website. Just wanted to see if I can learn something new during the covid-19 lockdown.
